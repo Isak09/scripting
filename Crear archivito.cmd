@@ -9,3 +9,5 @@
 :: texto.
 
 copy /y nul ejemplo_de_archivo.txt
+:: Ahora comprobaremos si el archivo de texto está creado
+dir
