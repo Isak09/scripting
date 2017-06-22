@@ -7,3 +7,5 @@
 # en la ubicacion donde estamos actualmente.
 
 touch ejemplo_de_archivo.txt
+# Ahora comprobaremos si esta el archivo creado
+ls --color
