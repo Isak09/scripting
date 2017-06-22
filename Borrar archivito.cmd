@@ -4,4 +4,6 @@
 :::::::::::::::::::::::::::::::
 :: El comando "del" lo que hace es borrar el archivo que queramos.
 
-del ejemplo.txt
+del /P ejemplo.txt
+:: Pregunta primero si queremos borrar
+echo archivo borrado
