@@ -6,3 +6,5 @@
 :: crearemos una carpeta con ese nombre en el directorio donde estas actualmente.
 
 mkdir carpetita
+:: Ahora comprobaremos si está creada la carpeta
+dir
