@@ -8,3 +8,5 @@
 :: que queremos buscar entre comillas y despues donde queremos buscarlo, tambien entre comillas.
 
 find "Dulcinea" "Quijote.txt"
+:: Si resulta que no te acuerdas si la palabra se escribia con mayuscula, le añades el subcomando /I
+find /I "Dulcinea" "Quijote.txt"
