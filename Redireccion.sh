@@ -9,3 +9,5 @@
 # en este caso "ejemplo.txt"
 
 ls > ejemplo.txt
+# Ahora comprobaremos si esta todo bien haciendo un nano 
+nano ejemplo.txt
