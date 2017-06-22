@@ -7,5 +7,7 @@
 :: y despues entre comillas que archivo queremos ver.
 
 more "ejemplo.txt"
+::Ahora si quieres buscar algo en el archivo usas find
+find "cualquier cosa" "ejemplo.txt"
 
 pause
