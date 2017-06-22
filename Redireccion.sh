@@ -1,6 +1,6 @@
 #! bin/bash
 #########################
-# Con este script redireccionaremos el historial a un archivo de texto
+# Con este script redireccionaremos la lista de archivos de un directorio a un archivo de texto
 #########################
 # Lo que hace el simbolo ">" es redireccionar lo que hayas elejido
 # al destino.
