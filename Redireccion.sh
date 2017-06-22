@@ -7,7 +7,8 @@
 # En este ejemplo vamos a escoger la lista de archivos de un directorio
 # escribiendo "ls" y despues el simbolo ">" seguido del nombre del archivo,
 # en este caso "ejemplo.txt"
+# Y si lo prefieres podemos comprobarlo a la vez que lo redireccionamos con "pipe"
 
-ls > ejemplo.txt
-# Ahora comprobaremos si esta todo correcto con el comando "more"
-more ejemplo.txt
+ls > ejemplo.txt | more
+
+echo todo listo
