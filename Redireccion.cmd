@@ -8,6 +8,6 @@
 :: escribiendo "dir" y despues el simbolo ">" seguido del nombre del archivo,
 :: en este caso "ejemplo.txt"
 
-dir > ejemplo.txt
-:: Ahora revisaremos si está todo correcto con el comando "more".
-more ejemplo.txt
+dir > ejemplo.txt | more
+
+echo Todo listo
