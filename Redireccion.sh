@@ -9,5 +9,5 @@
 # en este caso "ejemplo.txt"
 
 ls > ejemplo.txt
-# Ahora comprobaremos si esta todo bien haciendo un nano 
-nano ejemplo.txt
+# Ahora comprobaremos si esta todo correcto con el comando "more"
+more ejemplo.txt
