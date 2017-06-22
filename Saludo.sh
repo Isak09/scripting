@@ -2,8 +2,8 @@
 #####################################
 #Con este script saludaremos
 #####################################
-# el comando echo repite lo que se escribe 
+# el comando echo muestra en el terminal lo que se escribe 
 # despues, por ejemplo: si escribes "echo saludos"
-# te repetira "saludos".
+# te mostrará "saludos".
 
 echo "Boas"
