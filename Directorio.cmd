@@ -4,6 +4,6 @@
 :::::::::::::::::::::::::::::::
 :: El comando "dir" nos muestra una lista completa de los ficheros que hay en el directorio.
 
-dir /D :: Por si quieres verlo en columnas
+dir /D    ::Por si quieres verlo en columnas
 
 pause
