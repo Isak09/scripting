@@ -9,3 +9,5 @@
 # se quiere guardar.
 
 mv ejemplo_de_archivo.txt EjemploDeCarpeta/
+# Para asegurarnos miraremos dentro de la carpeta si se encuentra el archivo con el comando ls
+ls EjemploDeCarpeta/
