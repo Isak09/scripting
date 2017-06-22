@@ -5,3 +5,4 @@
 # El comando "rm" lo que hace es borrar el archivo que queramos.
 
 rm ejemplo.txt
+echo archivo borrado
